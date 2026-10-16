@@ -1,4 +1,4 @@
-// T3: Generating Delay Using Timer3 in 16-Bit Mode – PIC18F4580
+// T3: Generating Delay Using Timer3 in 16-Bit Mode â€“ PIC18F4580
 
 #include <p18f4580.h>
 #define Led PORTCbits.RC0
