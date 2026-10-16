@@ -1,4 +1,4 @@
-// T2: Generating Delay Using Timer2 and PR2 – PIC18F4580
+// T2: Generating Delay Using Timer2 and PR2 â€“ PIC18F4580
 
 #include <p18f4580.h>
 #define Led PORTCbits.RC0
