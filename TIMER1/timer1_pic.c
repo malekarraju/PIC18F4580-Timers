@@ -1,4 +1,4 @@
-//T1: Generating Delay Using Timer1 in 16-Bit Mode – PIC18F4580
+//T1: Generating Delay Using Timer1 in 16-Bit Mode â€“ PIC18F4580
 
 #include<p18f4580.h>
 #define Led PORTCbits.RC0
